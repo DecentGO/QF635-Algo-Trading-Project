@@ -11,4 +11,4 @@
 * `QF635 BTC HFT github.pdf` is the sample print out for running of the API trading.
 * `QF635 G12BTC library.pdf` is the sample print out for running of our own library file.
  
-### `QF635 G12 BTC HFT.ipynb` is the only file to run real time API trading!!
+### `QF635 BTC HFT.ipynb` is the only file to run real time API trading!!
